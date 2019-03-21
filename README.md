@@ -5,7 +5,7 @@ This is **Java programming course** project of Jisu Kang :)
 
 Welcome to my github!
 
-![보노보노](https://www.pinterest.co.kr/pin/627196685581794760/)
+![보노보노](C:\Users\SKKU\IdeaProjects\swe2023)
 
 
 ## Repository Contents

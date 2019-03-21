@@ -1,11 +1,23 @@
-public abstract class Animal {
-    private String name;
+public class Animal {
 
-    public String getName() {
-        return name;
+    //instance variable
+    String food;
+    int hunger;
+    String boundaries;
+    String lacation;
+
+    //method
+    public void makeNoise() {
+        Syetem.out.println("!!!");
     }
 
-    public Animal (String theName) {
-        name = theName;
+    public void eat() { Syetem.out.println("yum yumm"); }
+
+    public void sleep() {
+        Syetem.out.println("zzz");
+    }
+
+    public void roam() {
+        Syetem.out.println("grrr");
     }
 }

@@ -1,0 +1,23 @@
+public class Launcher{
+    public static void main (String[] args){
+
+        c.makeNoise();
+        c.roam();
+        c.eat();
+        c.sleep();
+
+        Animal[] animals = new Animal[5];
+        animals[0] = new Dog();
+        animals[1] = new Cat();
+        animals[2] = new Wolf();
+        animals[3] = new Lion();
+        animals[4] = new Hippo();
+
+        for (int i=0; i<animals.length; i++) {
+            animals[i].makeNoise();
+            animals[i].roam();
+            animals[i].eat();
+            animals[i].sleep();
+        }
+    }
+}

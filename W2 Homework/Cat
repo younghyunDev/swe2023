@@ -1,0 +1,10 @@
+public class Cat extends Feline{
+
+    public void makeNoise() {
+        System.out.println("Cat crying");
+    }
+    public void eat() {
+        System.out.println("Cat eating");
+    }
+
+}
