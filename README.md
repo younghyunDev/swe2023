@@ -5,7 +5,7 @@ This is **Java programming course** project of Jisu Kang :)
 
 Welcome to my github!
 
-![bonobono] (./image/bonobono.png)
+![bonobono](./image/bonobono.png)
 
 
 ## Repository Contents
