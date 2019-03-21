@@ -1,9 +1,9 @@
 public class Lion extends Feline{
     public void makeNoise() {
-        System.out.println("Lion crying");
+        System.out.println("Lion crying: roar");
     }
     public void eat() {
-        System.out.println("Lion eating");
+        System.out.println("Lion eating: meat");
     }
 
 }

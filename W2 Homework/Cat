@@ -1,10 +1,10 @@
 public class Cat extends Feline{
 
     public void makeNoise() {
-        System.out.println("Cat crying");
+        System.out.println("Cat crying: meow");
     }
     public void eat() {
-        System.out.println("Cat eating");
+        System.out.println("Cat eating: meat");
     }
 
 }

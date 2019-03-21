@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b8acb6-8ebc-4c70-b3e0-4a11b092614b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/W2 Homework/Canine" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2 Homework/Cat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2 Homework/Dog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2 Homework/Feline" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2 Homework/Hippo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2 Homework/Launcher" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2 Homework/Lion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2 Homework/PetOwner" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2 Homework/Vet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2 Homework/Wolf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W2 Homework/Animal" beforeDir="false" afterPath="$PROJECT_DIR$/W2 Homework/Animal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W2 Homework/Cat" beforeDir="false" afterPath="$PROJECT_DIR$/W2 Homework/Cat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W2 Homework/Dog" beforeDir="false" afterPath="$PROJECT_DIR$/W2 Homework/Dog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W2 Homework/Hippo" beforeDir="false" afterPath="$PROJECT_DIR$/W2 Homework/Hippo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W2 Homework/Lion" beforeDir="false" afterPath="$PROJECT_DIR$/W2 Homework/Lion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W2 Homework/Wolf" beforeDir="false" afterPath="$PROJECT_DIR$/W2 Homework/Wolf" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/W2 Homework/Animal">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
@@ -55,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/W2 Homework/Lion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="38">
+              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
               <folding>
                 <element signature="e#62#63#0" expanded="true" />
                 <element signature="e#111#112#0" expanded="true" />
@@ -70,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/W2 Homework/Hippo">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="114">
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
               <folding>
                 <element signature="e#64#65#0" expanded="true" />
                 <element signature="e#114#115#0" expanded="true" />
@@ -97,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/W2 Homework/Dog">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="114">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
               <folding>
                 <element signature="e#62#63#0" expanded="true" />
                 <element signature="e#110#111#0" expanded="true" />
@@ -109,16 +101,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/W2 Homework/Wolf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="57">
+              <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
               <folding>
                 <element signature="e#62#63#0" expanded="true" />
                 <element signature="e#111#112#0" expanded="true" />
                 <element signature="e#135#136#0" expanded="true" />
                 <element signature="e#184#185#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/W2 Homework/Cat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding>
+                <element signature="e#62#63#0" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,22 +143,22 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/W2 Homework/Feline" />
         <option value="$PROJECT_DIR$/W2 Homework/Canine" />
-        <option value="$PROJECT_DIR$/W2 Homework/Cat" />
-        <option value="$PROJECT_DIR$/W2 Homework/Lion" />
-        <option value="$PROJECT_DIR$/W2 Homework/Hippo" />
         <option value="$PROJECT_DIR$/W2 Homework/Vet" />
-        <option value="$PROJECT_DIR$/W2 Homework/Dog" />
-        <option value="$PROJECT_DIR$/W2 Homework/Wolf" />
         <option value="$PROJECT_DIR$/W2 Homework/PetOwner" />
         <option value="$PROJECT_DIR$/W2 Homework/Launcher" />
         <option value="$PROJECT_DIR$/W2 Homework/Animal" />
+        <option value="$PROJECT_DIR$/W2 Homework/Lion" />
+        <option value="$PROJECT_DIR$/W2 Homework/Hippo" />
+        <option value="$PROJECT_DIR$/W2 Homework/Dog" />
+        <option value="$PROJECT_DIR$/W2 Homework/Cat" />
+        <option value="$PROJECT_DIR$/W2 Homework/Wolf" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="979" />
+    <option name="x" value="696" />
     <option name="y" value="23" />
-    <option name="width" value="943" />
+    <option name="width" value="1226" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -183,7 +190,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553156223198" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553156754180" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -215,15 +222,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553148408477</updated>
-      <workItem from="1553148414225" duration="6127000" />
+      <workItem from="1553148414225" duration="6657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6127000" />
+    <option name="totallyTimeSpent" value="6657000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="979" y="23" width="943" height="1000" extended-state="0" />
+    <frame x="696" y="23" width="1226" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -231,7 +238,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25141564" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1903945" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -292,50 +299,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W2 Homework/Cat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#62#63#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/W2 Homework/Tiger">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/W2 Homework/Human">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W2 Homework/Dog">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#62#63#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W2 Homework/Wolf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#62#63#0" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/W2 Homework/Launcher">
       <provider selected="true" editor-type-id="text-editor">
@@ -351,15 +319,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/W2 Homework/Animal">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/W2 Homework/Lion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="38">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
           <folding>
             <element signature="e#62#63#0" expanded="true" />
             <element signature="e#111#112#0" expanded="true" />
             <element signature="e#135#136#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W2 Homework/Hippo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -374,23 +362,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W2 Homework/Hippo">
+    <entry file="file://$PROJECT_DIR$/W2 Homework/Dog">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="114">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
           <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#62#63#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W2 Homework/Animal">
+    <entry file="file://$PROJECT_DIR$/W2 Homework/Cat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="114">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="e#62#63#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W2 Homework/Wolf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <folding>
+            <element signature="e#62#63#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

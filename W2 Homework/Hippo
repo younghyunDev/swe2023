@@ -1,10 +1,10 @@
 public class Hippo extends Animal {
 
     public void makeNoise() {
-        System.out.println("Hippo crying");
+        System.out.println("Hippo crying: hippo");
     }
     public void eat() {
-        System.out.println("Hippo eating");
+        System.out.println("Hippo eating: glass");
     }
 
 }
