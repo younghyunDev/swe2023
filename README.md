@@ -17,5 +17,4 @@ Welcome to my github!
 | `Weekly Homework` | hw |
 | `Lecture Note` | note |
 
-
-git hub
+github theme changed
